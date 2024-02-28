@@ -1,0 +1,1 @@
+from .jwt_query_param_authentication import JWTQueryParamAuthMiddleware
